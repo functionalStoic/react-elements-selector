@@ -1,0 +1,42 @@
+{
+  "projectName": "react-elements-selector",
+  "projectOwner": "functionalStoic",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "nearbycoder",
+      "name": "Josh Hamilton",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/10525357?v=4",
+      "profile": "http://blog.nearbycoder.com/",
+      "contributions": [
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "example",
+        "financial",
+        "fundingFinding",
+        "ideas",
+        "infra",
+        "platform",
+        "plugin",
+        "review",
+        "talk",
+        "test",
+        "tool",
+        "translation",
+        "tutorial",
+        "video"
+      ]
+    }
+  ]
+}

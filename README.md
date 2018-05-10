@@ -1,4 +1,5 @@
 # react-elements-selector
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 > React (Render Props) component to handle selection of elements
 
@@ -29,3 +30,15 @@ class Example extends Component {
 ## License
 
 MIT © [functionalStoic](https://github.com/functionalStoic)
+
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+| [<img src="https://avatars3.githubusercontent.com/u/10525357?v=4" width="100px;"/><br /><sub><b>Josh Hamilton</b></sub>](http://blog.nearbycoder.com/)<br />[💬](#question-nearbycoder "Answering Questions") [📝](#blog-nearbycoder "Blogposts") [🐛](https://github.com/functionalStoic/react-elements-selector/issues?q=author%3Anearbycoder "Bug reports") [💻](https://github.com/functionalStoic/react-elements-selector/commits?author=nearbycoder "Code") [🎨](#design-nearbycoder "Design") [📖](https://github.com/functionalStoic/react-elements-selector/commits?author=nearbycoder "Documentation") [📋](#eventOrganizing-nearbycoder "Event Organizing") [💡](#example-nearbycoder "Examples") [💵](#financial-nearbycoder "Financial") [🔍](#fundingFinding-nearbycoder "Funding Finding") [🤔](#ideas-nearbycoder "Ideas, Planning, & Feedback") [🚇](#infra-nearbycoder "Infrastructure (Hosting, Build-Tools, etc)") [📦](#platform-nearbycoder "Packaging/porting to new platform") [🔌](#plugin-nearbycoder "Plugin/utility libraries") [👀](#review-nearbycoder "Reviewed Pull Requests") [📢](#talk-nearbycoder "Talks") [⚠️](https://github.com/functionalStoic/react-elements-selector/commits?author=nearbycoder "Tests") [🔧](#tool-nearbycoder "Tools") [🌍](#translation-nearbycoder "Translation") [✅](#tutorial-nearbycoder "Tutorials") [📹](#video-nearbycoder "Videos") |
+| :---: |
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
