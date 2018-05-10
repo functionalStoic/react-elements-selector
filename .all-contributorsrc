@@ -16,26 +16,13 @@
       "profile": "http://blog.nearbycoder.com/",
       "contributions": [
         "question",
-        "blog",
         "bug",
         "code",
-        "design",
         "doc",
-        "eventOrganizing",
         "example",
-        "financial",
-        "fundingFinding",
-        "ideas",
-        "infra",
-        "platform",
-        "plugin",
         "review",
-        "talk",
         "test",
-        "tool",
-        "translation",
-        "tutorial",
-        "video"
+        "tool"
       ]
     },
     {
@@ -45,26 +32,13 @@
       "profile": "https://github.com/functionalStoic",
       "contributions": [
         "question",
-        "blog",
         "bug",
         "code",
-        "design",
         "doc",
-        "eventOrganizing",
         "example",
-        "financial",
-        "fundingFinding",
-        "ideas",
-        "infra",
-        "platform",
-        "plugin",
         "review",
-        "talk",
         "test",
-        "tool",
-        "translation",
-        "tutorial",
-        "video"
+        "tool"
       ]
     }
   ]
