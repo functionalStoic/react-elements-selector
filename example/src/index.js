@@ -38,14 +38,14 @@ class App extends Component {
         items={items}
         notSelectable={items.filter(item => !item.selectable)}
       >
-        {(
-          users,
+        {({
+          items: users,
           toggleSelect,
           isSelecting,
           isItemSelected,
           itemProps,
           selectedItems
-        ) => {
+        }) => {
           return (
             <Fragment>
               <Container>

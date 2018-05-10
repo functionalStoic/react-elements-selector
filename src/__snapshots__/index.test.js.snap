@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ElementsSelector renders 1`] = `
+<ElementsSelector
+  items={Array []}
+  notSelectable={Array []}
+/>
+`;
+
+exports[`ElementsSelector renders with array 1`] = `
+<ElementsSelector
+  items={
+    Array [
+      1,
+      2,
+      3,
+      4,
+    ]
+  }
+  notSelectable={
+    Array [
+      1,
+      2,
+      3,
+      4,
+    ]
+  }
+>
+  [Function]
+</ElementsSelector>
+`;
