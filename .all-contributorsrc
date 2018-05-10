@@ -37,6 +37,35 @@
         "tutorial",
         "video"
       ]
+    },
+    {
+      "login": "functionalStoic",
+      "name": "functionalStoic",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7215306?v=4",
+      "profile": "https://github.com/functionalStoic",
+      "contributions": [
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "example",
+        "financial",
+        "fundingFinding",
+        "ideas",
+        "infra",
+        "platform",
+        "plugin",
+        "review",
+        "talk",
+        "test",
+        "tool",
+        "translation",
+        "tutorial",
+        "video"
+      ]
     }
   ]
 }
