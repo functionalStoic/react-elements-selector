@@ -1,5 +1,6 @@
 {
   "name": "multiselect",
+  "homepage": "https://functionalstoic.github.io/react-elements-selector",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -8,6 +9,7 @@
     "emotion": "9.1.2",
     "react": "16.3.2",
     "react-dom": "16.3.2",
+    "react-elements-selector": "^0.1.0",
     "react-emotion": "9.1.2",
     "react-scripts": "1.1.4"
   },

@@ -5684,6 +5684,10 @@ react-dom@16.3.2:
     object-assign "^4.1.1"
     prop-types "^15.6.0"
 
+react-elements-selector@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/react-elements-selector/-/react-elements-selector-0.1.0.tgz#ba2b64903181a5fcfce5145b0f821c4e0f6956ee"
+
 react-emotion@9.1.2:
   version "9.1.2"
   resolved "https://registry.yarnpkg.com/react-emotion/-/react-emotion-9.1.2.tgz#fca18bcb827809de2a5d73fb996b717ed4fada02"
