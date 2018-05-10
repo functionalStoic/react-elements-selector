@@ -61,9 +61,13 @@ class App extends Component {
                   );
                 })}
               </Container>
+              -- Hold down shift to select multiple boxes -- <br />
+              <br />
               <button onClick={toggleSelect}>
                 {!isSelecting ? 'Start Selecting' : 'Cancel'}
               </button>
+              <br />
+              <br />
               {JSON.stringify(selectedItems)}
             </Fragment>
           );
