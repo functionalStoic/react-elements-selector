@@ -1,6 +1,6 @@
 {
   "name": "react-elements-selector",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "React (Render Props) component to handle selection of elements",
   "author": "functionalStoic",
   "license": "MIT",
