@@ -13356,10 +13356,10 @@ rollup-plugin-node-resolve@3.3.0:
     is-module "^1.0.0"
     resolve "^1.1.6"
 
-rollup-plugin-peer-deps-external@2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/rollup-plugin-peer-deps-external/-/rollup-plugin-peer-deps-external-2.1.1.tgz#49bba4965bedd0b8e1aa613bec4c4ab718b39360"
-  integrity sha512-NKFgYUrMRRURiJWpSy8GNStpdy04wfd5XhpYeAL1Nr3TIw77mUR3+n9RcVjeGj28CHySbWgFQPSrZheqcMcoYw==
+rollup-plugin-peer-deps-external@2.2.3:
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/rollup-plugin-peer-deps-external/-/rollup-plugin-peer-deps-external-2.2.3.tgz#059a8aec1eefb48a475e9fcedc3b9e3deb521213"
+  integrity sha512-W6IePXTExGXVDAlfZbNUUrx3GxUOZP248u5n4a4ID1XZMrbQ+uGeNiEfapvdzwx0qZi5DNH/hDLiPUP+pzFIxg==
 
 rollup-plugin-postcss@1.6.1:
   version "1.6.1"
