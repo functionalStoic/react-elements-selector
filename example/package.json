@@ -6,7 +6,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "emotion": "9.2.12",
+    "emotion": "10.0.27",
     "react": "16.14.0",
     "react-dom": "16.14.0",
     "react-elements-selector": "^0.1.1",
