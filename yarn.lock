@@ -2264,10 +2264,10 @@ ajv@^6.1.0, ajv@^6.10.0, ajv@^6.10.2, ajv@^6.12.3, ajv@^6.12.4:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-all-contributors-cli@4.11.1:
-  version "4.11.1"
-  resolved "https://registry.yarnpkg.com/all-contributors-cli/-/all-contributors-cli-4.11.1.tgz#8e4d28a69bb60006b72d53758177a0c7b8a20f19"
-  integrity sha512-1IXtQzxyfbuMAgscSDarKfxHYBG5ax83drjGuVkVhbuVXnRrixSykaJqLoI/ArbTEMW/DJdiAe+LIBWLAhA3dw==
+all-contributors-cli@4.11.2:
+  version "4.11.2"
+  resolved "https://registry.yarnpkg.com/all-contributors-cli/-/all-contributors-cli-4.11.2.tgz#b8bf1e1d08181be76ca4ebeb7869d3fdfbcf5557"
+  integrity sha512-E1hfoxpCWes+YUvYP9IuaQMg6gs//5iRearVeDfgrxUNr6MFP0BGJwhZb33usiNCO7Sl3lasbpAfWNmfvXb1Bg==
   dependencies:
     async "^2.0.0-rc.1"
     chalk "^2.3.0"
