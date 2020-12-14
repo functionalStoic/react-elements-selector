@@ -48,7 +48,7 @@
     "react-scripts": "4.0.1",
     "react-testing-library": "8.0.1",
     "rollup": "2.34.2",
-    "rollup-plugin-babel": "3.0.7",
+    "rollup-plugin-babel": "4.4.0",
     "rollup-plugin-commonjs": "8.4.1",
     "rollup-plugin-node-resolve": "3.4.0",
     "rollup-plugin-peer-deps-external": "2.2.4",
